@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "88309921806",
+    "project_id": "kritter-id",
+    "storage_bucket": "kritter-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88309921806:android:26b2c9e21a58c08ee3245f",
+        "android_client_info": {
+          "package_name": "id.evetek.kritter.id"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88309921806-086ml9hea665udmhaf4akmqmoaubdqvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.evetek.kritter.id",
+            "certificate_hash": "7f243bd860159aef396b61360e459904ca29fc79"
+          }
+        },
+        {
+          "client_id": "88309921806-b0dagda09pothhd9um2bsdmmdkg0slt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXHxW2CiCns71YZkjNh_xtiPtQeOS76GY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88309921806-b0dagda09pothhd9um2bsdmmdkg0slt8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88309921806-mtvof0l3ldatqq9v5a6aar68nl9mdd6v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.evetek.kritter.id"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
